@@ -26,7 +26,7 @@ To use this quiz, simply open the `index.html` file in a web browser.
 
 ## Visit the Live Webpage
 
-Check out the live interactive quiz [here](https://).
+Check out the live interactive quiz [here]([https://](https://vishvesprabakar.github.io/error-makes-clever-quiz/).
 
 ## Contributing
 
